@@ -1,0 +1,22 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "package.json file for color-clock project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learn-co-students/npm-lab-seattle-web-082619.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/learn-co-students/npm-lab-seattle-web-082619/issues"
+  },
+  "homepage": "https://github.com/learn-co-students/npm-lab-seattle-web-082619#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
